@@ -236,7 +236,7 @@ function initChartData(pointData) {
       (option = {
         geo: {
           map: 'Nanjing',
-          roam: false,
+          roam: true,
           itemStyle: {
             color: 'rgba(34, 70, 168, 0.7)',
             borderColor: '#0692a4',
